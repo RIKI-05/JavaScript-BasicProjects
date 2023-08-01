@@ -19,6 +19,9 @@ Projects Included:
      
 5. Counter with Dark Mode:
    - Description: A simple project with increase decrease and reset options along with an option to make the website dark themed.
+     
+6. Click Cat List:
+   - Description: A Click Cat" is a JavaScript project featuring a list of 5 cats. Users can change each cat's name and track interactions with counters
 
 Usage:
 1. Clone the repository using the following command:
